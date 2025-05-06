@@ -1,0 +1,22 @@
+* {
+    background: #fff;
+    font-family: "PT Serif", serif;
+    color: #603420c3;
+}
+
+.header {
+    border: 1px solid #D3D3D3;
+    position: relative;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 15px 15px;
+    max-width: 1230px;
+    text-align: center;
+}
+
+.header__logo {
+    text-decoration: none;
+    font-size: 30px;
+}

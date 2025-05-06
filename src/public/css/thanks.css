@@ -1,0 +1,48 @@
+.thanks__content {
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    height: 500px;
+    width: 800px;
+}
+
+.back-strings {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+    margin: 0 auto;
+    font-size: 180px;
+    color: #F5F5F5;
+}
+
+.front-strings {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+    margin: 0 auto;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.home__button-link {
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+    width: 80px;
+    margin: 0 auto;
+    padding: 4px;
+    border: none;
+    background: #603420c3;
+    text-decoration: none;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+}
